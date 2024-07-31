@@ -1,2 +1,1 @@
-# Morskoyii_boii
- MB
+Морской бой на Python
